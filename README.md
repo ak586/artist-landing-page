@@ -17,5 +17,7 @@ This project is a simple landing page for an artist, designed and developed usin
 
 - **CSS3**: Utilized for styling and layout of the page, including colors, fonts, spacing, and responsiveness.
 
+## Live Link:
 
+View the live page [here](https://ak586.github.io/artist-landing-page/).
 
